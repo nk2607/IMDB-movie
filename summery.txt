@@ -1,0 +1,9 @@
+Summery of case study of imdb movie
+1.We can tell trend is decreasing from 2017,2018,2019 movie release number is 3052,2944,2001
+2.The highest number of movies is produced in the month of March.
+3.The lowest number of movies is produced in the month of December.
+4.In year 2019 alone in INDIA and USA has produce more than 1000 movies in more  than 10 genre.
+5.In drama genre highest 4285 number of movie produce.
+6.Best production house with highest number of hit movie are Dream Warrior Pictures, National Theatre Live,Lietuvos Kinostudija
+7.Top 3 director with highest rating hit movie are Joe Russo, Anthony Russo & James Mangold.
+8.Top 3 actor which has highest number of hit movies are Mammootty,Mohanlal,Johnny Yong Bosch.
